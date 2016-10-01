@@ -1,4 +1,4 @@
-## Welcome to Devin Dupaix's git page. I use this as a reference library and link some of the project repositories I contribute to outside of work. 
+## Welcome to Devin Dupaix's git page. I use this as a [reference library](https://github.com/djdupaix/software_engineer/wiki) and link some of the project repositories I contribute to outside of work. 
 
 ### About me:
 
