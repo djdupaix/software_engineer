@@ -2,7 +2,7 @@
 
 ### About me:
 
-I was born and raised in the High Rockies in the state of Utah. I currently reside near the Everglades in the state of Florida. I studied Economics and Criminology as an Undergrad and studied Software Engineering as part of my Masters in Information Technology.
+I was born and raised in the High Rockies in the state of Utah. I currently reside near the Everglades in the state of Florida. I studied Economics as an Undergrad and studied Software Engineering as part of my Masters in Information Technology.
 
 I currently work as a Software Engineer for Emerson Network Power. I love to innovate and solve problems in a logical and efficient manner.
 
@@ -11,6 +11,8 @@ I currently work as a Software Engineer for Emerson Network Power. I love to inn
 [Ruby SAAS Project](https://github.com/djdupaix/ruby_saas_project)
 
 [More to come]()
+
+[Reference Library](https://github.com/djdupaix/software_engineer/wiki)
 
 ### Contact info:
 
