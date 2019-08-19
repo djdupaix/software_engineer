@@ -4,7 +4,7 @@
 
 I was born and raised in the High Rockies in the state of Utah. I currently reside near the Everglades in the state of Florida. I studied Economics as an Undergrad and studied Software Engineering as part of my Masters in Information Technology.
 
-I currently work as a Software Engineer for Emerson Network Power. I love to innovate and solve problems in a logical and efficient manner.
+I previously worked as a Software Engineer for Emerson Network Power and now provide enterprise solutions. I love to innovate and solve problems in a logical and efficient manner.
 
 ### Project links:
 
